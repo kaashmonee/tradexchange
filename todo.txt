@@ -1,3 +1,4 @@
 add 'my scheduled appointments section'
 add menu to all the pages
 add tabs to all the pages
+add filtering functionality
